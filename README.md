@@ -30,8 +30,7 @@ pandas
 numpy  
 matplotlib   
 
-# File Guide
-
+  
 # Execute 
 - File takes 3 arguements  
  `python main.py number_of_datapoints number_of_clusters number_of_iterations`
