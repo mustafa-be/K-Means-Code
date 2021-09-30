@@ -23,7 +23,7 @@ Implementation of K Means Algorithm in Python
  ![p](output/initial-data.png) 
 
 ## Label generated against specified iterations and clusters 
- ![p](output/data-2-clusters-20-iteration.png) 
+ ![p](output/data-3-clusters-30-iteration.png) 
 
 # Library Requirements  
 pandas  
