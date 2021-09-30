@@ -13,11 +13,12 @@ Implementation of K Means Algorithm in Python
 ## Label generated against specified iterations and clusters 
  ![p](output/data-2-clusters-20-iteration.png) 
 
-# Library Requirements 
-pandas 
-numpy 
-matplotlib  
-
+# Library Requirements  
+pandas  
+numpy  
+matplotlib   
+ 
 # Execute 
-- File takes 3 arguements `python main.py number_of_datapoints number_of_clusters number_of_iterations` 
+- File takes 3 arguements  
+ `python main.py number_of_datapoints number_of_clusters number_of_iterations`
 
