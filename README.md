@@ -1,12 +1,12 @@
 # K-Means-Code 
 Implementation of K Means Algorithm in Python 
 
-# Libraries Required  
+## Libraries Required  
 pandas  
 numpy  
 matplotlib   
 
-# Execution Ways 
+## Execution Ways 
 1. #### Using main.py  
 Takes 3 arguements length of sample data `number_of_datapoints` , number of clusters `number_of_clusters` and number of iteration to perform`number_of_iterations`
  ```  
@@ -20,7 +20,7 @@ data=np.random.rand(100,2)
 labels,centroids=KMeans(data,4,20)
 ```
 
-# File Guide  
+## File Guide  
 
 - Folder: `code-at-1-hour-mark` -> contains the code at 1 hour mark    
 - File: `simplekmeans.py` -> contains function that fits data on specified clusters and iterations   
@@ -28,7 +28,7 @@ labels,centroids=KMeans(data,4,20)
 - File: `algorithm/mlearn.py` -> contains KMeans class used by main.py  
 - Folder: `output` -> contains output of main.py ie plots,data files  
 
-# Functionality
+## Functionality
 1. Generate data points
 2. Calculate kmeans
    1. select k random points from data
@@ -39,7 +39,7 @@ labels,centroids=KMeans(data,4,20)
    3. return labels,centroids 
 3. Make corresponding plots and save data to output dir
 
-# Plots
+## Plots
 ### Initial Data 
  ![p](output/initial-data.png)  
 
