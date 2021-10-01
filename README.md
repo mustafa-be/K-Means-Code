@@ -29,7 +29,7 @@ labels,centroids=KMeans(data,4,20)
 - File: `algorithm/mlearn.py` -> contains KMeans class used by main.py  
 - Folder: `output` -> contains output of main.py ie plots,data files  
 
-## Functionality
+## Algorithm 
 1. Generate data points
 2. Calculate kmeans
    1. select k random points from data
