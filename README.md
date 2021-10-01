@@ -41,9 +41,11 @@ labels,centroids=KMeans(data,4,20)
 
 # Plots
 ### Initial Data 
- ![p](output/initial-data.png =350x350)  
+ ![p](output/initial-data.png)  
 
 ### Label generated against specified iterations and clusters 
- ![p](output/data-3-clusters-30-iteration.png =350x350) 
+ ![p](output/data-3-clusters-30-iteration.png) 
+ 
+ 
 
   
