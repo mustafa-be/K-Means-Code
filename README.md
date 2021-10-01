@@ -22,11 +22,11 @@ labels,centroids=KMeans(data,4,20)
 
 # File Guide  
 
-- Folder: code-at-1-hour-mark -> contains the code at 1 hour mark    
-- File: simplekmeans.py -> contains function that fits data on specified clusters and iterations   
-- File: main.py -> use this file to run program , specify the number of datapoints to randomly generate, number of clusters and number of iterations    
-- File: algorithm/mlearn.py -> contains KMeans class used by main.py  
-- Folder: output -> contains output of main.py ie plots,data files  
+- Folder: `code-at-1-hour-mark` -> contains the code at 1 hour mark    
+- File: `simplekmeans.py` -> contains function that fits data on specified clusters and iterations   
+- File: `main.py` -> use this file to run program , specify the number of datapoints to randomly generate, number of clusters and number of iterations    
+- File: `algorithm/mlearn.py` -> contains KMeans class used by main.py  
+- Folder: `output` -> contains output of main.py ie plots,data files  
 
 # Functionality
 1. Generate data points
