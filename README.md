@@ -1,12 +1,13 @@
 # K-Means-Code 
 Implementation of K Means Algorithm in Python 
 
-## Libraries Required  
+## Getting Started  
+### Pre Requisites   
 pandas  
 numpy  
 matplotlib   
 
-## Execution Ways 
+### Usage 
 1. #### Using main.py  
 Takes 3 arguements length of sample data `number_of_datapoints` , number of clusters `number_of_clusters` and number of iteration to perform`number_of_iterations`
  ```  
